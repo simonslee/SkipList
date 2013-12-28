@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <malloc.h>
-using namespace std;
 
 #define MAXLEVEL 16
 typedef struct linkNode* node;
